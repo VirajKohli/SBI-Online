@@ -7,5 +7,4 @@ If you Don't know, how to login to your personal account, here detailed descript
 Internet banking, here you will find complete steps to activate account. If you don't know how to do OnlineSbi Mobile 
 Banking Registration, here is the comlete guide for that. This Site Provides Complete Step by Step Guide to your Problems.
 
-<img src="https://sbionline.help/wp-content/uploads/2016/11/5.png" alt="Reset Password">
 <a href="https://sbionline.help/reset-onlinesbi-password-via-sbi-online/">Reset Online SBI password via SBI Online</a>
